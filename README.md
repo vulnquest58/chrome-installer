@@ -6,16 +6,15 @@ This repository provides a professional, automated script to install **Google Ch
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation Guide](#installation-guide)
-- [Script Workflow](#script-workflow)
-- [Author Information](#author-information)
-- [Disclaimer](#disclaimer)
-- [Contributions](#contributions)
-- [License](#license)
-
+- [Overview](https://github.com/vulnquest58/chrome-installer/tree/main#-overview)
+- [Features](https://github.com/vulnquest58/chrome-installer/tree/main#-features)
+- [Prerequisites](https://github.com/vulnquest58/chrome-installer/tree/main#-prerequisites)
+- [Installation Guide](https://github.com/vulnquest58/chrome-installer/tree/main#-installation-guide)
+- [Script Workflow](https://github.com/vulnquest58/chrome-installer/tree/main#-script-workflow)
+- [Author Information](https://github.com/vulnquest58/chrome-installer/tree/main#-author-information)
+- [Disclaimer](https://github.com/vulnquest58/chrome-installer/tree/main#%EF%B8%8F-disclaimer)
+- [Contributions](https://github.com/vulnquest58/chrome-installer/tree/main#-contributions)
+- [License](https://github.com/vulnquest58/chrome-installer/tree/main#-license)
 ---
 
 ## 🌟 Overview
