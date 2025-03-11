@@ -1,11 +1,3 @@
-
----
-
-### **Updated Script (`install_chrome.sh`)**
-
-Below is the updated script with background operations, personalized information, and user-friendly feedback messages:
-
-```bash
 #!/bin/bash
 
 # ========================================================
