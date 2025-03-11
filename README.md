@@ -152,7 +152,7 @@ All contributions are appreciated and will be reviewed promptly.
 ---
 ## 📜 License
 
-This project is licensed under the **MIT License** . See the [LICENSE](https://chat.qwen.ai/c/LICENSE) file for details.
+This project is licensed under the **MIT License** . See the [LICENSE]([https://chat.qwen.ai/c/LICENSE](https://github.com/vulnquest58/chrome-installer/blob/main/LICENSE)) file for details.
 
 ---
 
