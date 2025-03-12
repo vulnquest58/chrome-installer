@@ -1,5 +1,5 @@
 # 🚀 Google Chrome Automated Installer Script
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Google+Chrome+Automated+Installer+Script)](https://git.io/typing-svg)
 This repository provides a professional, automated script to install **Google Chrome** on Ubuntu-based Linux distributions. Designed for simplicity and efficiency, the script handles all necessary steps, including adding the official repository, importing the signing key, and installing the stable version of Google Chrome.
 
 ---
